@@ -1,5 +1,5 @@
-/home/adminuser/venv/bin/python -m pip install --upgrade pip
-pandas==3.1.0
+
+pandas==2.2.1
 numpy==1.21.2
 openpyxl==3.0.9
 scikit-learn==0.24.2

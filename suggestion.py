@@ -7,7 +7,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 #pip install nltk
 #python -m spacy download en_core_web_sm
 import nltk
-#nltk.download('punkt')
+nltk.download('punkt')
 #pip install openpyxl
 import re
 import spacy
